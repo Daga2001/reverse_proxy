@@ -22,3 +22,6 @@ El presente repositorio tiene almacenado los archivos que utilizamos para el mon
 - **var:** acá se almacenan los archivos con extensión .html, es decir, las páginas que se mostrarón en el desarrollo del proyecto.
 
 - **archivos docker:** acá estan los archivos que fueron provistos por el profesor para realizar el montaje de la aplicación basada en contenedores docker.
+
+- **hosts:** este archivo tiene un dominio que definió el grupo de trabajo, lo mencionamos a pesar de que no tiene mucha importancia en el proyecto porque nos pareció
+interesante la forma en como se traduce un dominio en una dirección ip.
