@@ -14,9 +14,11 @@ Our final SO's project, in which we're hosting some web sites based on different
 El proyecto fue diseñado con el proposito de conocer cómo se gestiona un proxy inverso para redireccionar las solicitudes de los clientes al servidor hacía aquellos sitios que las puedan procesar, por lo que la estructura y diseño del servidor no son optimas para un ambito profesional.
 
 ## Descripción
-El presente repositorio tiene almacenado los archivos que utilizamos para el montaje del servidor con las herramientas que se habló en el video, por ejemplo en var, están los archivos que utilizamos para guardar lás páginas que se ejecutaron en los servidores de nginx y apache.
+El presente repositorio tiene almacenado los archivos que utilizamos para el montaje del servidor con las herramientas que se habló en el video, en el caso de **var** y **etc** se almacenaron subcarpetas con los nombres de las herramientas (nginx y apache) para una mejor distinción de los archivos usados en la implementación.
 
 ## Insumos utilizados
-- etc: acá se guardaron todos los archivos de configuración para los servidores que se montaron usando nginx y apache.
+- **etc:** acá se guardaron todos los archivos de configuración para los servidores que se montaron usando nginx y apache.
 
-- var: acá se almacenan los archivos con extensión .html, es decir, las páginas que se mostrarón en el desarrollo del proyecto.
+- **var:** acá se almacenan los archivos con extensión .html, es decir, las páginas que se mostrarón en el desarrollo del proyecto.
+
+- **archivos docker:** acá estan los archivos que fueron provistos por el profesor para realizar el montaje de la aplicación basada en contenedores docker.
